@@ -1,0 +1,87 @@
+/* ============
+Header Start
+============*/
+
+* {padding: 0;
+    margin:0;
+    
+    box-sizing: border-box;}
+
+    #Header{
+    background: black;
+    opacity: 0.9;
+    padding-left: 40px; 
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 16%;
+    margin-right: 20px;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.header-content{
+    display: flex;
+    
+}
+
+.menu{
+    color: #eeeeee;
+}
+
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+
+.menu ul li{
+    padding: 15px 20px;
+}
+
+
+.videoSubmit button{
+    background: transparent;
+    color: #eeeeee;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 14px;
+    border: 1px solid #e12b5f;
+    margin-top: 5px;
+}
+/*============
+Header End
+============ */
+
+/* ============
+Latest Start
+============*/
+.latest-all{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item-latest{
+    width: 33.333%;
+    padding: 15px;
+}
+
+.item-latest img {100%;
+}
+
+/*============
+Latest end
+============ */
+
+
+/* --ARASDIRMA APAR VIDEOLARA BAX */
+/* Transform:traslate;
+Display:flex
+
+
+
+https://viseo.progressionstudios.com/   ------ isdenilen sayt
+ */
